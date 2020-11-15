@@ -10,14 +10,17 @@
     align-items: center;
     padding: 20px;
 }
+
 nav{
     flex:1px;
     text-align: right;
 }
+
 nav ul{
     display: inline-block;
     list-style-type: none;
 }
+
 p{
     color: limegreen;
 
